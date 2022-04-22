@@ -13,7 +13,7 @@ type Thought {
   }
 
 type Query {
-    thoughts: [thought] 
+    thoughts: [Thought] 
   }
 `;
 
