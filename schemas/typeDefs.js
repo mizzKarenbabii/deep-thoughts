@@ -14,6 +14,7 @@ type Thought {
 
 type Query {
     thoughts: [Thought] 
+    helloWorld: String
   }
 `;
 
